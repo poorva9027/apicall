@@ -1,8 +1,0 @@
-input{
-    text-transform: uppercase;
-}
-
-input::placeholder{
-    text-transform: capitalize;
-    color: #BBBBBB;
-}
